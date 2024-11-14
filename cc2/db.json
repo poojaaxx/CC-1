@@ -1,0 +1,40 @@
+{
+    "User": [
+      {
+        "id": "a9ae"
+      },
+      {
+        "id": "51ee",
+        "first_name": "Saranish",
+        "last_name": "R",
+        "email": "saran@gmail.com",
+        "phone": "1234567",
+        "address": "Namakkall",
+        "city": "tamilnadu",
+        "state": "Tamil",
+        "password": "2143126"
+      },
+      {
+        "id": "d4d3",
+        "first_name": "sanmitraa",
+        "last_name": "v r",
+        "email": "princess.sanmitra05@gmail.com",
+        "phone": "9876543210",
+        "address": "ymhtdm",
+        "city": "bdghm",
+        "state": "fxgjf",
+        "password": "123456"
+      },
+      {
+        "id": "27cd",
+        "first_name": "Rasika",
+        "last_name": "H",
+        "email": "rasika@gmail.com",
+        "phone": "5484684",
+        "address": "vgabkb",
+        "city": "gsrth",
+        "state": "zsrgfvx",
+        "password": "987654"
+      }
+    ]
+  }
