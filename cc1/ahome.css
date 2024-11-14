@@ -1,0 +1,171 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7;
+}
+
+
+.navbar {
+  background-color: #333;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.nav-links {
+  list-style-type: none;
+  display: flex;
+  gap: 15px;
+}
+
+.nav-links li {
+  display: inline;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+
+.banner {
+  background-image: url('https://www.mobulous.com/blog/wp-content/uploads/Food_Delivery_App_Development1.png');
+  height:600px;
+  background-size: cover;
+  background-position: center;
+  color: rgb(3, 3, 3);
+  text-align: center;
+  padding: 100px 20px;
+}
+
+.banner h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.banner p {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.banner button {
+  padding: 15px 30px;
+  font-size: 18px;
+  background-color: #e91e63;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.banner button:hover {
+  background-color: #d81b60;
+}
+
+
+.categories {
+  padding: 40px 20px;
+  text-align: center;
+  color: darkblue;
+}
+
+.categories h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.category-cards {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.category-card {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 200px;
+  margin: 10px;
+  text-align: center;
+}
+
+.category-card img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.category-card h3 {
+  font-size: 20px;
+  color: #333;
+}
+
+
+.featured-items {
+  color: cyan;
+  padding: 40px 20px;
+  text-align: center;
+  background-color: darkblue;
+}
+
+.featured-items h2 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.featured-cards {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.featured-card {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 250px;
+  margin: 10px;
+  text-align: center;
+}
+
+.featured-card img {
+  width: 100%;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.featured-card h3 {
+  font-size: 22px;
+  color: #333;
+}
+
+.featured-card p {
+  font-size: 18px;
+  color: #e91e63;
+}
+
+.footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+.aa{
+  background-color: cyan;
+}
